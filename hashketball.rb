@@ -68,7 +68,8 @@ def game_hash
         :team_name => "",
         :colors => [],
         :players => [
-          :player_name => ,
+          {
+          :player_name => "",
           :number => ,
           :shoe => ,
           :points => ,
@@ -77,6 +78,7 @@ def game_hash
           :steals => ,
           :blocks => ,
           :slam_dunks => 
+          },
           ]
       }
     }
