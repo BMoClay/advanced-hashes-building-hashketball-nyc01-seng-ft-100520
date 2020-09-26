@@ -32,7 +32,7 @@ def game_hash
           ]
       },
       :away => {
-        :team_name => "",
+        :team_name => "Reggie Evans",
         :colors => [],
         :players => [
           :player_name => "",
