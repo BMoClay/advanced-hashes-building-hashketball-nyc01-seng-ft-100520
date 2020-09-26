@@ -31,7 +31,7 @@ def game_hash
           },
           {
             :player_name => "Brook Lopez",
-          :number => "",
+          :number => "11",
           :shoe => "",
           :points => "",
           :rebounds => "",
